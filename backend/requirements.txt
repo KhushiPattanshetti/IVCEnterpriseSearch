@@ -1,0 +1,9 @@
+flask                   # Backend framework
+flask-cors              # To enable Cross-Origin Resource Sharing
+llama-index             # Core library for LlamaIndex
+llama-index-embeddings-huggingface  # HuggingFace embeddings support
+llama-index-embeddings-instructor  # Instructor embeddings
+pandas                  # Data processing (if needed)
+PyPDF2                  # To handle PDF documents
+python-dotenv           # To manage environment variables
+gunicorn                # For production server deployment (optional)
