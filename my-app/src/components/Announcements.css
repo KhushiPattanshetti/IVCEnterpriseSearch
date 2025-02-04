@@ -1,0 +1,33 @@
+.announcements {
+    flex: 1;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .tabs {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+  }
+  
+  .tabs span {
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .tabs span:hover {
+    background-color: #f0f8ff;
+  }
+  
+  .mentions {
+    margin-top: 10px;
+  }
+  
+  .mentions p {
+    margin: 5px 0;
+  }
+  
