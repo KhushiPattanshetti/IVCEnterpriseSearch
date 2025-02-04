@@ -1,0 +1,6 @@
+[submodule "IVC-COEP"]
+	path = IVC-COEP
+	url = https://github.com/AkashIVC/IVC-COEP.git
+[submodule "IVCEnterpriseSearch"]
+	path = IVCEnterpriseSearch
+	url = https://github.com/KhushiPattanshetti/IVCEnterpriseSearch.git
