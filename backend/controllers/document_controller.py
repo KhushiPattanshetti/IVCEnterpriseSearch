@@ -1,3 +1,5 @@
+'''"IVC Ventures International Innovation Pvt Ltd (IVC Ventures) Confidential. 
+    No license grant and not for distribution of any nature. All Rights Reserved."'''
 import os
 from flask import jsonify
 
